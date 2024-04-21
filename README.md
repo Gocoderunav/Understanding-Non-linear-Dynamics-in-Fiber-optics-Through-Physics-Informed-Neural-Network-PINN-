@@ -1,0 +1,1 @@
+# Solving-Non-Linear-Schrodinger-Equation-Using-PINN-s
