@@ -8,11 +8,7 @@ Physics-Informed Neural Networks (PINNs) require less data compared to tradition
 
 when training a PINN, it's like teaching a student to solve a physics problem. You give the student some data to work with, like measurements from an experiment. But you also remind them of the rules of physics, like equations and constraints, that they must follow. So, as the student tries to find a solution, they not only have to match the data they've been given but also make sure their answer fits with the laws of physics. In the end, the student learns to solve the problem in a way that satisfies both the data they've seen and the physics they've been taught.
 
-The governing equation is given by:
-$$
-\frac{\partial u}{\partial \xi} + \frac{i \\text{sgn}(\beta_2)}{2} \frac{\partial^2 u}{\partial \tau^2} - i N^2 |u|^2 u = 0
-$$
-The above NLSE is normalised. here the all the coefficients $$ \beta_2$$ and $$\gamma $$ are equal to one.
+
 
 
 
