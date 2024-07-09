@@ -9,7 +9,8 @@ Physics-Informed Neural Networks (PINNs) require less data compared to tradition
 when training a PINN, it's like teaching a student to solve a physics problem. You give the student some data to work with, like measurements from an experiment. But you also remind them of the rules of physics, like equations and constraints, that they must follow. So, as the student tries to find a solution, they not only have to match the data they've been given but also make sure their answer fits with the laws of physics. In the end, the student learns to solve the problem in a way that satisfies both the data they've seen and the physics they've been taught.
 
 NLSE Equation 
-𝜕𝑢/𝜕𝜉+(ⅈ sgn⁡(𝛽_2 ))/2⋅(𝜕^2 𝑢)/(𝜕𝜏^2 )−ⅈ𝑁^2 〖|𝑢|〗^2 𝑢=0
+
+![image](https://github.com/Gocoderunav/Understanding-Non-linear-Dynamics-in-Fiber-optics-Through-Physics-Informed-Neural-Network-PINN-/assets/120463239/d58faafb-9066-47af-a49e-3812e5f4a93c)
 
 
 
