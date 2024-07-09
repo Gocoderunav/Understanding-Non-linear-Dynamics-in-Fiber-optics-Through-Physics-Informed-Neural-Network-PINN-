@@ -3,3 +3,18 @@ As we know, when light travels through nonlinear media, phenomena such as the Ke
 
 Physics-Informed Neural Networks (PINNs) require less data compared to traditional neural networks. In our approach, we use the initial pulse as a constraint and ensure that the initial and boundary conditions of the wave are satisfied by the predicted neural network. The loss function of a PINN is designed to minimize both the governing equations of physics and the boundary conditions. This way, the PINN effectively integrates physical laws into the learning process, leading to accurate predictions with fewer data requirements.
 
+when training a PINN, it's like teaching a student to solve a physics problem. You give the student some data to work with, like measurements from an experiment. But you also remind them of the rules of physics, like equations and constraints, that they must follow.
+
+So, as the student tries to find a solution, they not only have to match the data they've been given but also make sure their answer fits with the laws of physics. In the end, the student learns to solve the problem in a way th![Uploading Screenshot_20240510_084722.png…]()
+at satisfies both the data they've seen and the physics they've been taught.
+
+
+
+
+
+
+
+
+
+
+
